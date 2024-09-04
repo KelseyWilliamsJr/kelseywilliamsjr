@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Kelsey 👋
+
+- 🔭 I’m currently working on a data analytics certification.
+- 🌱 I’m currently learning about Python programming.
+- 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/kelseywilliams3/)
+
+
 
 <!--
 **KelseyWilliamsJr/kelseywilliamsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
